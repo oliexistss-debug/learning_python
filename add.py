@@ -1,8 +1,8 @@
 # function definition
 def add(number1, number2):
-  result = number1 + number2
-  #print(f"output={result}")
-  return result
+	result = number1 + number2
+	#print(f"output={result}")
+	return result
 
 # using the function, or
 # calling the function
@@ -25,7 +25,6 @@ print(x)
 def multiply(num1, num2):
 	answer = num1 * num2
 	print(f"output={answer}")
-	return None
 	return answer
 
 
